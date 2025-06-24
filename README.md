@@ -25,6 +25,6 @@ Superstore Sales Dataset (public dataset from Kaggle)
 Created an interactive dashboard to help management make data-driven decisions on sales strategy.
 
 ## Screenshot:
-![Dashboard Screenshot]
+![Dashboard Screenshot](https://github.com/Safeer004/Sales-Dashborad/blob/main/Screenshot%202025-06-05%20161109.png)
 
 
